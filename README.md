@@ -1,4 +1,4 @@
-# SigmaOS-arch-lisp
+# SigmaOS-lisp
 
 GitHub description is a placeholder; component scope remains unclassified.
 

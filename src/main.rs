@@ -1,4 +1,4 @@
-//! arch-lisp component binary.
+//! lisp component binary.
 //!
 //! Component logic lives in the library crate (`src/lib.rs`); this binary is
 //! a thin entry point kept minimal so the crate builds and tests run.

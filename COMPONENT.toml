@@ -1,5 +1,5 @@
 [component]
-name = "SigmaOS-arch-lisp"
+name = "SigmaOS-lisp"
 tier = 2
 stability = "scaffold"
 language = "rust"

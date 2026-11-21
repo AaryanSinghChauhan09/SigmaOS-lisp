@@ -1,4 +1,4 @@
-use arch_lisp::Component;
+use sigmaos_lisp::Component;
 
 #[test]
 fn test_component_new_aaa() {

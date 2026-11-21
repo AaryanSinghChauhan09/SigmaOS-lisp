@@ -1,10 +1,10 @@
 [package]
-name = "arch-lisp"
+name = "sigmaos-lisp"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-lisp component - SigmaOS component"
+description = "SigmaOS SigmaOS-lisp component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-lisp"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-lisp"
 
 [dependencies]
 thiserror = "2"
